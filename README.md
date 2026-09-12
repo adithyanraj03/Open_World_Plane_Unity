@@ -97,3 +97,4 @@ This project is licensed under the BSD 2-Clause "Simplified" License. See the [L
 
 - **Custom Assets:** For providing the visual and environmental elements of the open world.
 - **Unity:** For the powerful game development platform.
+
